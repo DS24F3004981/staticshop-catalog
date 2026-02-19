@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "email": "24f3004981@ds.study.iitm.ac.in",
+    "version": "e2d5804b"
+  },
+  "products": [
+    { "id": 1, "name": "Sofa Set", "category": "home", "price": 24999.50, "stock": 2, "rating": 4.4 },
+    { "id": 2, "name": "Dining Table", "category": "home", "price": 18999.75, "stock": 3, "rating": 4.2 },
+    { "id": 3, "name": "Office Chair", "category": "home", "price": 7499.99, "stock": 5, "rating": 4.5 },
+    { "id": 4, "name": "Bookshelf", "category": "home", "price": 5999.49, "stock": 4, "rating": 4.1 },
+
+    { "id": 5, "name": "Smartphone", "category": "electronics", "price": 45999.00, "stock": 10, "rating": 4.6 },
+    { "id": 6, "name": "Laptop", "category": "electronics", "price": 79999.99, "stock": 6, "rating": 4.7 },
+    { "id": 7, "name": "Bluetooth Speaker", "category": "electronics", "price": 3999.00, "stock": 15, "rating": 4.3 },
+    { "id": 8, "name": "Smart Watch", "category": "electronics", "price": 12999.50, "stock": 12, "rating": 4.4 },
+    { "id": 9, "name": "Wireless Earbuds", "category": "electronics", "price": 6999.99, "stock": 20, "rating": 4.2 },
+
+    { "id": 10, "name": "T-Shirt", "category": "fashion", "price": 999.00, "stock": 50, "rating": 4.0 },
+    { "id": 11, "name": "Jeans", "category": "fashion", "price": 2499.50, "stock": 40, "rating": 4.3 },
+    { "id": 12, "name": "Sneakers", "category": "fashion", "price": 4999.99, "stock": 25, "rating": 4.5 },
+    { "id": 13, "name": "Jacket", "category": "fashion", "price": 6999.00, "stock": 18, "rating": 4.4 },
+    { "id": 14, "name": "Cap", "category": "fashion", "price": 599.00, "stock": 60, "rating": 3.9 },
+
+    { "id": 15, "name": "Novel Book", "category": "books", "price": 499.99, "stock": 100, "rating": 4.6 },
+    { "id": 16, "name": "Science Textbook", "category": "books", "price": 1299.50, "stock": 35, "rating": 4.7 },
+    { "id": 17, "name": "Notebook Set", "category": "books", "price": 299.99, "stock": 80, "rating": 4.1 },
+    { "id": 18, "name": "Exam Guide", "category": "books", "price": 899.00, "stock": 45, "rating": 4.3 },
+
+    { "id": 19, "name": "Football", "category": "sports", "price": 1299.00, "stock": 30, "rating": 4.2 },
+    { "id": 20, "name": "Badminton Racket", "category": "sports", "price": 2499.99, "stock": 20, "rating": 4.4 },
+    { "id": 21, "name": "Yoga Mat", "category": "sports", "price": 999.50, "stock": 35, "rating": 4.5 }
+  ],
+  "aggregations": {
+    "home": {
+      "count": 4,
+      "inventoryValue": 109485.67
+    }
+  }
+}
