@@ -1,39 +1,170 @@
-{
-  "metadata": {
-    "email": "24f3004981@ds.study.iitm.ac.in",
-    "version": "e2d5804b"
+[
+  {
+    "id": "prod-e2d5804b-001",
+    "name": "Premium Item 1",
+    "category": "home",
+    "price": 46.93,
+    "stock": 150,
+    "rating": 1.7
   },
-  "products": [
-    { "id": 1, "name": "Sofa Set", "category": "home", "price": 24999.50, "stock": 2, "rating": 4.4 },
-    { "id": 2, "name": "Dining Table", "category": "home", "price": 18999.75, "stock": 3, "rating": 4.2 },
-    { "id": 3, "name": "Office Chair", "category": "home", "price": 7499.99, "stock": 5, "rating": 4.5 },
-    { "id": 4, "name": "Bookshelf", "category": "home", "price": 5999.49, "stock": 4, "rating": 4.1 },
-
-    { "id": 5, "name": "Smartphone", "category": "electronics", "price": 45999.00, "stock": 10, "rating": 4.6 },
-    { "id": 6, "name": "Laptop", "category": "electronics", "price": 79999.99, "stock": 6, "rating": 4.7 },
-    { "id": 7, "name": "Bluetooth Speaker", "category": "electronics", "price": 3999.00, "stock": 15, "rating": 4.3 },
-    { "id": 8, "name": "Smart Watch", "category": "electronics", "price": 12999.50, "stock": 12, "rating": 4.4 },
-    { "id": 9, "name": "Wireless Earbuds", "category": "electronics", "price": 6999.99, "stock": 20, "rating": 4.2 },
-
-    { "id": 10, "name": "T-Shirt", "category": "fashion", "price": 999.00, "stock": 50, "rating": 4.0 },
-    { "id": 11, "name": "Jeans", "category": "fashion", "price": 2499.50, "stock": 40, "rating": 4.3 },
-    { "id": 12, "name": "Sneakers", "category": "fashion", "price": 4999.99, "stock": 25, "rating": 4.5 },
-    { "id": 13, "name": "Jacket", "category": "fashion", "price": 6999.00, "stock": 18, "rating": 4.4 },
-    { "id": 14, "name": "Cap", "category": "fashion", "price": 599.00, "stock": 60, "rating": 3.9 },
-
-    { "id": 15, "name": "Novel Book", "category": "books", "price": 499.99, "stock": 100, "rating": 4.6 },
-    { "id": 16, "name": "Science Textbook", "category": "books", "price": 1299.50, "stock": 35, "rating": 4.7 },
-    { "id": 17, "name": "Notebook Set", "category": "books", "price": 299.99, "stock": 80, "rating": 4.1 },
-    { "id": 18, "name": "Exam Guide", "category": "books", "price": 899.00, "stock": 45, "rating": 4.3 },
-
-    { "id": 19, "name": "Football", "category": "sports", "price": 1299.00, "stock": 30, "rating": 4.2 },
-    { "id": 20, "name": "Badminton Racket", "category": "sports", "price": 2499.99, "stock": 20, "rating": 4.4 },
-    { "id": 21, "name": "Yoga Mat", "category": "sports", "price": 999.50, "stock": 35, "rating": 4.5 }
-  ],
-  "aggregations": {
-    "home": {
-      "count": 4,
-      "inventoryValue": 109485.67
-    }
+  {
+    "id": "prod-e2d5804b-002",
+    "name": "Pro Item 2",
+    "category": "electronics",
+    "price": 256.26,
+    "stock": 29,
+    "rating": 4.4
+  },
+  {
+    "id": "prod-e2d5804b-003",
+    "name": "Elite Item 3",
+    "category": "home",
+    "price": 184.16,
+    "stock": 189,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-e2d5804b-004",
+    "name": "Pro Item 4",
+    "category": "home",
+    "price": 422.84,
+    "stock": 147,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-e2d5804b-005",
+    "name": "Basic Item 5",
+    "category": "sports",
+    "price": 426.5,
+    "stock": 140,
+    "rating": 1.3
+  },
+  {
+    "id": "prod-e2d5804b-006",
+    "name": "Premium Item 6",
+    "category": "electronics",
+    "price": 473.29,
+    "stock": 148,
+    "rating": 4.1
+  },
+  {
+    "id": "prod-e2d5804b-007",
+    "name": "Basic Item 7",
+    "category": "clothing",
+    "price": 251.33,
+    "stock": 147,
+    "rating": 3.2
+  },
+  {
+    "id": "prod-e2d5804b-008",
+    "name": "Basic Item 8",
+    "category": "sports",
+    "price": 209.32,
+    "stock": 179,
+    "rating": 3.3
+  },
+  {
+    "id": "prod-e2d5804b-009",
+    "name": "Basic Item 9",
+    "category": "home",
+    "price": 288.55,
+    "stock": 19,
+    "rating": 1.7
+  },
+  {
+    "id": "prod-e2d5804b-010",
+    "name": "Elite Item 10",
+    "category": "sports",
+    "price": 349.96,
+    "stock": 184,
+    "rating": 2.7
+  },
+  {
+    "id": "prod-e2d5804b-011",
+    "name": "Pro Item 11",
+    "category": "clothing",
+    "price": 319.28,
+    "stock": 16,
+    "rating": 2.2
+  },
+  {
+    "id": "prod-e2d5804b-012",
+    "name": "Basic Item 12",
+    "category": "electronics",
+    "price": 491.26,
+    "stock": 95,
+    "rating": 3.9
+  },
+  {
+    "id": "prod-e2d5804b-013",
+    "name": "Standard Item 13",
+    "category": "clothing",
+    "price": 185.06,
+    "stock": 3,
+    "rating": 4.4
+  },
+  {
+    "id": "prod-e2d5804b-014",
+    "name": "Basic Item 14",
+    "category": "clothing",
+    "price": 135.48,
+    "stock": 26,
+    "rating": 3.9
+  },
+  {
+    "id": "prod-e2d5804b-015",
+    "name": "Elite Item 15",
+    "category": "electronics",
+    "price": 79.6,
+    "stock": 180,
+    "rating": 4.6
+  },
+  {
+    "id": "prod-e2d5804b-016",
+    "name": "Premium Item 16",
+    "category": "clothing",
+    "price": 228.25,
+    "stock": 137,
+    "rating": 2.9
+  },
+  {
+    "id": "prod-e2d5804b-017",
+    "name": "Standard Item 17",
+    "category": "clothing",
+    "price": 37.47,
+    "stock": 199,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-e2d5804b-018",
+    "name": "Elite Item 18",
+    "category": "electronics",
+    "price": 466,
+    "stock": 188,
+    "rating": 3
+  },
+  {
+    "id": "prod-e2d5804b-019",
+    "name": "Pro Item 19",
+    "category": "electronics",
+    "price": 78.38,
+    "stock": 184,
+    "rating": 2.2
+  },
+  {
+    "id": "prod-e2d5804b-020",
+    "name": "Elite Item 20",
+    "category": "sports",
+    "price": 202.18,
+    "stock": 160,
+    "rating": 1.2
+  },
+  {
+    "id": "prod-e2d5804b-021",
+    "name": "Premium Item 21",
+    "category": "electronics",
+    "price": 433.69,
+    "stock": 108,
+    "rating": 3.6
   }
-}
+]
